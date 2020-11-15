@@ -23,7 +23,7 @@ src="https://www.youtube.com/embed/bEwE4wyz00o">
 
 
 <div style="width:400px;overflow:auto">
-<pre style="background-color:#E2EC9A;">
+<pre style="background-color:#dce3e8;">
 Russian Winnie-the-Pooh (Винни-Пух) is 
 quite different to his English counterpart.
 </pre>
