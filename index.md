@@ -1,5 +1,4 @@
 <h1>Welcome</h1>
-
 <h2><b>Introduction</b></h2>
 <p>Hello! My name's Emma and this is my experimental website for course module <strong>SML5202</strong>.</p>  
 <p>Here are three facts about me:</p>
